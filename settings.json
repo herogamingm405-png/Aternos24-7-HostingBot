@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MultiplayerFun.aternos.me",
+    "port": 45050,
     "version": "",
     "try-creative": false
   },
